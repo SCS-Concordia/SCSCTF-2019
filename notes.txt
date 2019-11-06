@@ -1,0 +1,29 @@
+
+C# challenges
+
+#filesystem image
+
+electron?
+rust?
+
+web page
+
+webassembly
+
+copy level00's algorithm??
+
+shuffle algorithm
+
+#binwalk
+
+#morse code sound file
+
+lorem ipsum substitution cipher?
+
+#sliced image
+
+encrypted blocks, offset gives correct or incorrect
+
+
+
+
